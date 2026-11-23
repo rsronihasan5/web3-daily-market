@@ -8,6 +8,10 @@ Part of the web3-daily series: [web3-daily](https://github.com/rsronihasan5/web3
 
 ## Posts
 
+### 2026-11-23
+
+- [Crypto market: second day of green, but fear is still extreme](./posts/2026-11-23/02-crypto-market.md)
+
 ### 2026-11-22
 
 - [Crypto market: a green bounce inside a red month](./posts/2026-11-22/02-crypto-market.md)
