@@ -8,6 +8,10 @@ Part of the web3-daily series: [web3-daily](https://github.com/rsronihasan5/web3
 
 ## Posts
 
+### 2026-11-26
+
+- [Crypto market: a broad relief bounce — 85+ of the top 100 green, fear still extreme](./posts/2026-11-26/02-crypto-market.md)
+
 ### 2026-11-25
 
 - [Crypto market: everything red, fear extreme, only a handful of coins up](./posts/2026-11-25/02-crypto-market.md)
